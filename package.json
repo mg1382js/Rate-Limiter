@@ -1,0 +1,14 @@
+{
+  "name": "@mahdi.golzar/ratelimiter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rateLimiter"
+  ],
+  "author": "mahdi.golzar",
+  "license": "ISC",
+  "description": ""
+}
